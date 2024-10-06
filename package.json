@@ -1,5 +1,6 @@
 {
   "name": "@umrashrf/styled-components",
+  "version": "6.1.14",
   "scripts": {
     "build": "yarn workspace styled-components build",
     "release": "yarn workspace styled-components prepublishOnly",
