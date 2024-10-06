@@ -1,6 +1,5 @@
 {
   "name": "styled-components-project",
-  "private": true,
   "scripts": {
     "build": "yarn workspace styled-components build",
     "release": "yarn workspace styled-components prepublishOnly",
